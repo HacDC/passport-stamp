@@ -4,6 +4,8 @@
 The PNG image was produced from **HacDC-logo_only.svg** included in the
 [HacDC Logo GitHub repository](https://github.com/HacDC/Logo).
 
+The SVG states that the size is 1279 x 1361 pixels.
+
 American passport booklets are roughly 125 mm * 87.5 mm. I'm
 arbitrarily deciding that a passport stamp should be no larger than
 60 * 60 mm. 
