@@ -4,4 +4,4 @@
 
 translate([0, 0, 5])
   scale([0.09, 0.09, 0.05])
-    surface(file = "/home/kjcole/Maker/3D/HacDC/logo1.png", center = true, invert = true);
+    surface(file = "HacDC-logo_only.png", center = true, invert = true);
